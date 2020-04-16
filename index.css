@@ -57,6 +57,37 @@ div.div06 {
 	border : 2px solid white ;
 	background-color: #964EC2 ;
 }
+
+div.div07 {
+    margin-top : -27px;
+	border : 2px solid white ;
+	background-color: #14A0D3 ;
+}
+
+div.div08 {
+    margin-top : -27px;
+	border : 2px solid white ;
+	background-color: #1C1C1E ;
+}
+
+div.div09 {
+    margin-top : -27px;
+	border : 2px solid white ;
+	background-color: #F59B65 ;
+}
+
+div.div10 {
+    margin-top : -27px;
+	border : 2px solid white ;
+	background-color: #2A3950 ;
+}
+
+div.div11 {
+    margin-top : -27px;
+	border : 2px solid white ;
+	background-color: #964EC2 ;
+}
+
 /* the div's are different and it was up there */ 
 
 /* THIS IS FOR ALL IMAGE , DON'T TOUCH */ 
@@ -76,39 +107,39 @@ div.div2 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 div.myProgress1 {
-    width : 300% ;
+    width : 100% ;
 }
 
 #myBar1 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #2E9599;
     text-align : center;
     color: black ;
 }
 #myBar2 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #F7DC68;
     text-align : center;
     color: black ;
 }
 #myBar3 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #F46C3F;
     text-align : center;
     color: black ;
 }
 #myBar4 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #A7226F;
     text-align : center;
     color: black ;
 }
 #background1 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #212226;
     text-align : center;
@@ -118,35 +149,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar5 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #345DA7;
     text-align : center;
     color: black ;
 }
 #myBar6 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #3B8AC4;
     text-align : center;
     color: black ;
 }
 #myBar7 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #4BB4DE;
     text-align : center;
     color: black ;
 }
 #myBar8 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #EFDBCB;
     text-align : center;
     color: black ;
 }
 #background2 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #283D5A;
 	border: solid black ;
@@ -157,35 +188,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar9 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #5F236B;
     text-align : center;
     color: black ;
 }
 #myBar10 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #BE375F;
     text-align : center;
     color: black ;
 }
 #myBar11 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #ED8554;
     text-align : center;
     color: black ;
 }
 #myBar12 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #F5EB6D;
     text-align : center;
     color: black ;
 }
 #background3 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #212226;
     text-align : center;
@@ -195,35 +226,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar13 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #752092;
     text-align : center;
     color: black ;
 }
 #myBar14 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #C957BC;
     text-align : center;
     color: black ;
 }
 #myBar15 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FFC872;
     text-align : center;
     color: black ;
 }
 #myBar16 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FFE3B3;
     text-align : center;
     color: black ;
 }
 #background4 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #FFFFFF;
 	border: solid black ;
@@ -234,35 +265,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar17 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #4C4141;
     text-align : center;
     color: black ;
 }
 #myBar18 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #EF534F;
     text-align : center;
     color: black ;
 }
 #myBar19 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FB7E96;
     text-align : center;
     color: black ;
 }
 #myBar20 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FFCDD2;
     text-align : center;
     color: black ;
 }
 #background5 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #212226;
     text-align : center;
@@ -272,35 +303,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar21 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #3E54D3;
     text-align : center;
     color: black ;
 }
 #myBar22 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #4F80E2;
     text-align : center;
     color: black ;
 }
 #myBar23 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #15CDCA;
     text-align : center;
     color: black ;
 }
 #myBar24 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #4FE0B6;
     text-align : center;
     color: black ;
 }
 #background6 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #212226;
     text-align : center;
@@ -310,35 +341,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar25 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #5193B3;
     text-align : center;
     color: black ;
 }
 #myBar26 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #62C4C3;
     text-align : center;
     color: black ;
 }
 #myBar27 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #F8D49B;
     text-align : center;
     color: black ;
 }
 #myBar28 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #F8E6C8;
     text-align : center;
     color: black ;
 }
 #background7 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #FFFFFF;
     text-align : center;
@@ -348,35 +379,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar29 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #26648E;
     text-align : center;
     color: black ;
 }
 #myBar30 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #4F8FC0;
     text-align : center;
     color: black ;
 }
 #myBar31 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #53D2DC;
     text-align : center;
     color: black ;
 }
 #myBar32 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FFE3B3;
     text-align : center;
     color: black ;
 }
 #background8 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FFFFFF;
     text-align : center;
@@ -386,35 +417,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar33 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #3B7097;
     text-align : center;
     color: black ;
 }
 #myBar34 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #4A8DB7;
     text-align : center;
     color: black ;
 }
 #myBar35 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #74BDE0;
     text-align : center;
     color: black ;
 }
 #myBar36 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #A2E2F8;
     text-align : center;
     color: black ;
 }
 #background9 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #FFFFFF;
     text-align : center;
@@ -424,35 +455,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar37 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #7339AB;
     text-align : center;
     color: black ;
 }
 #myBar38 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #625AD8;
     text-align : center;
     color: black ;
 }
 #myBar39 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #1F9CE4;
     text-align : center;
     color: black ;
 }
 #myBar40 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #88F4FF;
     text-align : center;
     color: black ;
 }
 #background10 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #000000;
     text-align : center;
@@ -462,35 +493,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar41 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #5F236B;
     text-align : center;
     color: black ;
 }
 #myBar42 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #BE375F;
     text-align : center;
     color: black ;
 }
 #myBar43 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #ED8554;
     text-align : center;
     color: black ;
 }
 #myBar44 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #F5EB6D;
     text-align : center;
     color: black ;
 }
 #background11 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #212226;
     text-align : center;
@@ -500,35 +531,35 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar45 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color: #3E54D3;
     text-align : center;
     color: black ;
 }
 #myBar46 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #006BBB;
     text-align : center;
     color: black ;
 }
 #myBar47 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #30A0E0;
     text-align : center;
     color: black ;
 }
 #myBar48 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
     background-color : #FFC872;
     text-align : center;
     color: black ;
 }
 #background12 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #212226;
     text-align : center;
@@ -538,39 +569,237 @@ div.myProgress1 {
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
 
 #myBar49 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
-    background-color: #313866;
+    background-color: #482B7A;
     text-align : center;
     color: black ;
 }
 #myBar50 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
-    background-color : #50409A;
+    background-color : #2765B6;
     text-align : center;
     color: black ;
 }
 #myBar51 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
-    background-color : #964EC2;
+    background-color : #14A0D3;
     text-align : center;
     color: black ;
 }
 #myBar52 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
-    background-color : #FF7BBF;
+    background-color : #1CD1B6;
     text-align : center;
     color: black ;
 }
 #background13 {
-    width: 25% ;
+    width: 75% ;
 	height : 30px ;
 	background-color : #212226;
     text-align : center;
     color: black ;
+}
+
+/* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
+
+#myBar53 {
+    width: 75% ;
+	height : 30px ;
+    background-color: #482B7A;
+    text-align : center;
+    color: black ;
+}
+#myBar54 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #2765B6;
+    text-align : center;
+    color: black ;
+}
+#myBar55 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #14A0D3;
+    text-align : center;
+    color: black ;
+}
+#myBar56 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #1CD1B6;
+    text-align : center;
+    color: black ;
+}
+#background14 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #1C1C1E;
+    border : solid white ;
+    text-align : center;
+    color: black ;
+}
+
+/* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
+
+#myBar57 {
+    width: 75% ;
+	height : 30px ;
+    background-color: #E5EFC1;
+    text-align : center;
+    color: black ;
+}
+#myBar58 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #A2D5AB;
+    text-align : center;
+    color: black ;
+}
+#myBar59 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #39AEA9;
+    text-align : center;
+    color: black ;
+}
+#myBar60 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #557B83;
+    text-align : center;
+    color: black ;
+}
+#background15 {
+    width: 75% ;
+	height : 30px ;
+	background-color : #212226;
+    text-align : center;
+    color: black ;
+}
+
+/* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
+
+#myBar61 {
+    width: 75% ;
+	height : 30px ;
+    background-color: #C5211C;
+    text-align : center;
+    color: black ;
+}
+#myBar62 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #E4443F;
+    text-align : center;
+    color: black ;
+}
+#myBar63 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #F59B65;
+    text-align : center;
+    color: black ;
+}
+#myBar64 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #F7BA79;
+    text-align : center;
+    color: black ;
+}
+#background16 {
+    width: 75% ;
+	height : 30px ;
+	background-color : #2A3950;
+    text-align : center;
+    color: black ;
+}
+
+/* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
+
+#myBar65 {
+    width: 75% ;
+	height : 30px ;
+    background-color: #41436A;
+    text-align : center;
+    color: black ;
+}
+#myBar66 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #984063;
+    text-align : center;
+    color: black ;
+}
+#myBar67 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #F64668;
+    text-align : center;
+    color: black ;
+}
+#myBar68 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #FE9677;
+    text-align : center;
+    color: black ;
+}
+#background16 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #2A3950;
+    border: solid #000000 ;
+    text-align : center;
+    color: black ;
+}
+
+/* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
+
+#myBar69 {
+    width: 75% ;
+	height : 30px ;
+    background-color: #293556;
+    text-align : center;
+    color: black ;
+}
+#myBar70 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #2E4583;
+    text-align : center;
+    color: black ;
+}
+#myBar71 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #3E60C1;
+    text-align : center;
+    color: black ;
+}
+#myBar72 {
+    width: 75% ;
+	height : 30px ;
+    background-color : #5983FC;
+    text-align : center;
+    color: black ;
+}
+#background17 {
+    width: 75% ;
+	height : 30px ;
+	background-color : #212226;
+    text-align : center;
+    color: black ;
+}
+
+/* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
+
+div.divYA {
+    padding : 35px;
 }
 
 /* ... BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER - BARRIER ... */ 
